@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcy:home|Door43 (tcy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcy|d43-tcy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcy/archive/master.zip|d43-tcy.zip]]
+
+**Recent Changes**
+{{changes>ns = tcy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcy|Ethnologue data]]
+
