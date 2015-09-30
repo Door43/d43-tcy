@@ -28,7 +28,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
-  * ಐನಾನಿ ದೇವೆರ್ ಪಂಡೆ ನೀರ್‌ಡ್ ಈಜುನ ಮಾತ ಜೀವೊಲೆನ್ ಬೊಕ್ಕ ಪೂರತರತಪಕ್ಕಿಲೆನ್ ಉಂಡು ಮಲ್ತೆ. ದೇವೆರ್ ಉಂದೆನ್‌ಲಾ ತೂದು ಎಡ್ಡೆ ಪಂಡ್ದ್ ಎನ್ನಿಯೆ ಬೊಕ್ಕ ಅವೆನ್ ಆಶಿರ್ವಾದ ಮಲ್ತೆ.
+ಐನಾನಿ ದೇವೆರ್ ಪಂಡೆ ನೀರ್‌ಡ್ ಈಜುನ ಮಾತ ಜೀವೊಲೆನ್ ಬೊಕ್ಕ ಪೂರತರತಪಕ್ಕಿಲೆನ್ ಉಂಡು ಮಲ್ತೆ. ದೇವೆರ್ ಉಂದೆನ್‌ಲಾ ತೂದು ಎಡ್ಡೆ ಪಂಡ್ದ್ ಎನ್ನಿಯೆ ಬೊಕ್ಕ ಅವೆನ್ ಆಶಿರ್ವಾದ ಮಲ್ತೆ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
@@ -36,34 +36,40 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
-Then God said, “Let us make human beings in our image to be like us. They will have authority over the earth and all the animals.”
+ಬೊಕ್ಕ ದೇವೆರ್ ನರಮಾನಿನ್ ನಮ ರೂಪೊಡು ನಮ ಲೆಕ್ಕನೆ ಉಂಡು ಮಲ್ಪುಗ ಪಂಡ್ದ್ ಪಂಡೆ. ಅಕ್ಲೆಗ್ ಭೂಮಿದ ಮಿತ್ತ್ ಬೊಕ್ಕ ಮಾತ ಪ್ರಾಣಿಲೆ ಮಿತ್ತ್ ಅಧಿಕಾರ ಕೊರಿಯೆ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?direct&}}
 
-So God took some dirt, formed it into a man, and breathed life into him. This man’s name was Adam. God planted a garden where Adam could live, and put him there to care for it.
+ಅಂಚೆನೇ ದೇವೆರ್ ಒಂತೆ ಮಣ್ಣ್‌ನ್ ದೆತ್ತೊಂದು ನರಮಾನಿನ್ಯನ ರೂಪ ಮಲ್ತ್‌ದ್ ತನ್ನ ಜೀವ ಸ್ವಸೊನು ಉದಿಯೆ. ಆಯಗ್ ಅದಾಮ್ ಪಂಡ್ದ್ಪುದರ್ ದೀಯೆ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
-In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
+ತೋಟದ ನಡುಟು ದೇವೆರ್ ರಡ್ಡ್ ವಿಶೇಷ ಮರೊನು ನಡ್ದ್ ಬುಡಿಯೆ- ಜೀವದ ಮರ ಬೊಕ್ಕ ಎಡ್ಡೆ ಪಡಿಕೆಂತಿನ ಜ್ಞಾನ ಉಂಡು ಮಲ್ಪುನ ಮರ. ಅದಾಮ್‌ಗ್ ದೇವೆರ್ ಪಂಡೆ ಈ ತೋಟದ ನಡುಟು ಇತ್ತಿನ ರಡ್ಡ್ ಮರತ ಫಲೊನು ಬುಡ್ದು ಬೇತ ಮಾತ ಮರತ ಫಲೊನು ತಿನೊಲಿ ಆ ಮರತ್ತ ಫಲೊನು ತಿಂದಿ ದಿನನೆ ಸೈಪ ಪಂಡ್ದ್ ತಾಕಿತ್ ಕೊರಿಯೆ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
-Then God said, “It is not good for man to be alone.” But none of the animals could be Adam’s helper.
+ದೇವೆರೆಗ್ ಮನುಷ್ಯೆ ಒಂಟಿಯಾದ್ ಉಪ್ಪುನ ಸರಿ ಅತ್ತ್ ಪಂಡ್ದ್ ಎನ್ನೊಂಡೆ ದಾಯೆಗ್ ಪಂಡ ಅದಾಮ್‌ಗ್ ಪ್ರಾಣಿಡ್ದ್ ಒವುಲಾ ಸಹಾಯ ತಿಕ್ಕೱದೆ ಪೋಂಡು.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
-So God made Adam fall into a deep sleep. Then God took one of Adam’s ribs and made it into a woman and brought her to him.
+< >  ದೇವೆರ್ ಅದಾಮ್‌ಗ್ ಗಾಡ ನಿದ್ರೆ ಕೊರಿಯೆ ಬೊಕ್ಕ ದೇವೆರ್ ಅದಾಮ್‌ನ ಪಕ್ಕೆಡ್ದ್ ಒಂಜಿ ಎಲುನು ದೆತ್ತ್‌ದ್ ಐಡ್ದ್ ಒಂಜಿ ಪೊಡಂಜ್ಜೊವು ಲೆಕ್ಕ ಮಲ್ತ್‌ದ್ ಅಲೆನ್ ಆಯನ ಕೈತಲ್ ಲೆತ್ತೊಂದು ಬತ್ತೆ
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
-When Adam saw her, he said, “At last! This one is like me! Let her be called ‘Woman,’ for she was made from Man.” This is why a man leaves his father and mother and becomes one with his wife.
+  -
+
+ಅದಾಮ್ ಅಲೆನ್ ತೂದು, ”ಇತ್ತೆ ಎಂಕ್ ಸರಿತ ಜೋಡಿ ತಿಕ್ಕೱಡ್.ತೂಯೆರೆ ಎನ್ನಾಲೆಕ್ಕನೇ ಉಲ್ಲಲ್. ಆಲ್ ನರ ಜಾತಿಡ್ದ್ ಬೈದಿನೆಡ್ದ್‌ ನಾರಿ ಪಂಡ್ದ್ ಲೆಪ್ಪೆರೆ ಆಪುಂಡು. ಈ ಕಾರಣೊಡ್ದ್ ಮನುಷ್ಯೆ ಆಯನ ಅಪ್ಪೆ ಅಮ್ಮನ್ ಬುಡ್ದು ತನ್ನ ಬುಡೆದಿ ಒಟ್ಟುಗು ಸೇರ್ದ್ ಅಕುಲು ಇರ್ವೆರಲಾ ಒಂಜೇ ಶರೀರಾದ್ದುಪ್ಪುವೆರೆ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}
 
-God made man and woman in his own image. He blessed them and told them, “Have many children and grandchildren and fill the earth!” And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation.
+  -
+
+ದೇವೆರ್ ಅನಜೋವು ಪೊನಜೋವುನು ತನ್ನ ರೂಪೊಡು ಉಂಡು ಮಲ್ತೆ. ಅಕುಲು ಬೊಕ್ಕ ಬಾಲೆಲು,ಪುಲ್ಲಿಯಾಡ್ಲೆಲೆನ ಭಾಗ್ಯೊನು ಪಡೆಯೊಂದು ಭೂಮಿಡ್ ದಿಂಜೊನ್‌ಲೆ ಪಂಡ್ದ್ ದೇವೆರ್ ಅಕ್ಲೆನ್ಅಶಿರ್ವಾದಿತೆ. ದೇವೆರ್ ಉಂಡು ಮಲ್ತಿನವು ಮಾತಲಾ ಎಡ್ಡೆ ಪಂಡ್ದ್ ಎನ್ನಿಯೆ. ಬೊಕ್ಕ ಅವೆನ್ ಮಾತೆನ್‌ಲಾ ತೂದು ಕುಶಿ ಮಲ್ತೆ. ಉಂದು ಪೂರ ಸೃಷ್ಟಿದ ಆಜನೆ ದಿನೊಟು ನಡತೱಡ್.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?direct&}}
 
-When the seventh day came, God had finished his work. So God rested from all he had been doing. He blessed the seventh day and made it holy, because on this day he rested from his work. This is how God created the universe and everything in it.
+  -
+
+ಏಳನೆತ ದಿನ ಬನ್ನಗ ದೇವೆರ್ ತನ್ನ ಕೆಲಸೊನು ಮುಗಿಪಾಯೆ. ಅಂಚಾಯಿನೆಡ್ದ್ ದೇವೆರ್ ತಾನ್ ಮಲ್ತಿ ಕೆಲಸೊಡ್ದು ವಿಶ್ರಾಂತಿ ದೆತ್ತೊನಿ. ಆಯೆ ಏಳನೆ ದಿನೊನು ಆಶಿರ್ವಾದ ಮಲ್ತೆ. ಬೊಕ್ಕ ಆ ದಿನೊನು ಪರಿಶುದ್ಧ ದಿನ ಪಂಡ್ದ್ ಮಲ್ತೆ. ದಾಯೆ ಪಂಡ ತನ್ನ ಮಾತ ಕೆಲಸ ಮುಗಿತ್ತ್‌ದ್ ವಿಶ್ರಾಂತಿ ದೆತ್ತೊಂಡೆ. ದೇವೆರ್ಇಂಚೆನೇ ಇಡಿ ಸೃಷ್ಟಿನ್‌ಲಾ ಬೊಕ್ಕ ಐಟ್ಟಿತ್ತಿ ಮಾತೆನ್‌ಲಾ ಉಂಡು ಮಲ್ತೆ.
 
 //A Bible story from: Genesis 1-2//
